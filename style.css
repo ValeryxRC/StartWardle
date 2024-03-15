@@ -1,0 +1,109 @@
+body{
+    /* background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7f09246-ac57-40d3-97ac-4ed7562a8152/df3i4lx-0132abba-7479-4bd3-939c-9fca9c792cbc.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3ZjA5MjQ2LWFjNTctNDBkMy05N2FjLTRlZDc1NjJhODE1MlwvZGYzaTRseC0wMTMyYWJiYS03NDc5LTRiZDMtOTM5Yy05ZmNhOWM3OTJjYmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J8DhZACK1XXgqaCSc4UvdjtXkq4RFL0PsfOQwsjp7bM"); */
+    background-image: url("https://www.xtrafondos.com/descargar.php?id=6344&resolucion=1920x1080");
+    background-size: contain;
+    background-attachment: fixed;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    background-color: #7f36b796;
+    border-radius: 5px;
+    padding-top: 1.5%;
+
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+    width: 40%;
+}
+li{
+    display: inline-block;
+    font-size: 40px;
+    padding-left: 2%;
+}
+  
+.link {
+    text-decoration: none;
+    color: aliceblue; 
+}
+  
+.link.clicked {
+    color: aliceblue; 
+    border: solid red;
+}
+h4{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+#container div{
+    display: inline-block;
+    /* width: 20%;
+    height: 300px; */
+    background-color: #0506069e;
+}
+#container{
+    vertical-align: middle;
+}
+#pagIndexDiv {
+    text-align: center;
+}
+.btnDiv{
+    width: 10%;
+    display: inline-block;
+    vertical-align: text-bottom;
+}
+input[type="file"] {
+    width: 100%;
+    padding-left:auto;
+}
+input[type="file"]::-webkit-file-upload-button {
+    visibility: hidden;
+}
+input[type="file"]::before {
+    content: 'Seleccionar archivo';
+    display: inline-block;
+    background: #007bff;
+    color: white;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 20%;
+    margin-bottom: 4%;
+}
+input[type="file"]:hover::before {
+    background: #0056b3;
+}
+.contBtn{
+    display: contents !important;
+}
+p{
+    margin-bottom: 0;
+}
+h5{
+    color: aliceblue;
+    background-color: #7f36b7;
+    border-radius: 5px;
+    padding: 1%;
+}
+.apiLocal{
+    display: none;
+}
+.modelP p{
+    color: black!important;
+}
+#result .fail {
+    color: red !important;
+}
+
+#result p {
+    color: green !important;
+}
+#result .respP p{
+    color: black !important;
+}

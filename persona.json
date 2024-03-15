@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rick Sanchez",
+    "estado": "Alive",
+    "especie": "Human",
+    "genero": "Male",
+    "origen": "Earth (C-137)",
+    "ubicacion": "Citadel of Ricks",
+    "img": ""
+  },
+  {
+    "id": 2,
+    "nombre": "Morty Smith",
+    "estado": "Alive",
+    "especie": "Human",
+    "genero": "Male",
+    "origen": "unknown",
+    "ubicacion": "Citadel of Ricks",
+    "img": ""
+  },
+  {
+    "id": 3,
+    "nombre": "Summer Smith",
+    "estado": "Alive",
+    "especie": "Human",
+    "genero": "Female",
+    "origen": "Earth (Replacement Dimension)",
+    "ubicacion": "Earth (Replacement Dimension)",
+    "img": "http://localhost:8085/image/3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Beth Smith",
+    "estado": "Alive",
+    "especie": "Human",
+    "genero": "Female",
+    "origen": "Earth (Replacement Dimension)",
+    "ubicacion": "Earth (Replacement Dimension)",
+    "img": ""
+  },
+  {
+    "id": 5,
+    "nombre": "Jerry Smith",
+    "estado": "Alive",
+    "especie": "Human",
+    "genero": "Male",
+    "origen": "Earth (Replacement Dimension)",
+    "ubicacion": "Earth (Replacement Dimension)",
+    "img": ""
+  },
+  {
+    "id": 6,
+    "nombre": "Abadango Cluster Princess",
+    "estado": "Alive",
+    "especie": "Alien",
+    "genero": "Female",
+    "origen": "Abadango",
+    "ubicacion": "Abadango",
+    "img": ""
+  },
+  {
+    "id": 7,
+    "nombre": "Abradolf Lincler",
+    "estado": "unknown",
+    "especie": "Human",
+    "genero": "Male",
+    "origen": "Earth (Replacement Dimension)",
+    "ubicacion": "Testicle Monster Dimension",
+    "img": "http://localhost:8085/image/7.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Amish Cyborg",
+    "estado": "Dead",
+    "especie": "Alien",
+    "genero": "Male",
+    "origen": "unknown",
+    "ubicacion": "Earth (Replacement Dimension)",
+    "img": ""
+  },
+  {
+    "id": 176,
+    "nombre": "Celebrity Jerry",
+    "estado": "Alive",
+    "especie": "Human",
+    "genero": "Male",
+    "origen": "Earth (C-500A)",
+    "ubicacion": "Earth (C-500A)",
+    "img": ""
+  },
+  {
+    "id": 175,
+    "nombre": "Jerry Smith",
+    "estado": "Alive",
+    "especie": "Human",
+    "genero": "Male",
+    "origen": "Earth (C-137)",
+    "ubicacion": "Earth (C-137)",
+    "img": "http://localhost:8085/image/175.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Alexander",
+    "estado": "Dead",
+    "especie": "Human",
+    "genero": "Male",
+    "origen": "Earth (C-137)",
+    "ubicacion": "Anatomy Park",
+    "img": "http://localhost:8085/image/12.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Alien Morty",
+    "estado": "unknown",
+    "especie": "Alien",
+    "genero": "Male",
+    "origen": "unknown",
+    "ubicacion": "Citadel of Ricks",
+    "img": ""
+  },
+  {
+    "id": 15,
+    "nombre": "Alien Rick",
+    "estado": "unknown",
+    "especie": "Alien",
+    "genero": "Male",
+    "origen": "unknown",
+    "ubicacion": "Citadel of Ricks",
+    "img": ""
+  },
+  {
+    "id": 826,
+    "nombre": "Butter Robot",
+    "estado": "Alive",
+    "especie": "Robot",
+    "genero": "Genderless",
+    "origen": "Earth (Replacement Dimension)",
+    "ubicacion": "Earth (Replacement Dimension)",
+    "img": "http://localhost:8085/image/826.jpg"
+  },
+  {
+    "id": 825,
+    "nombre": "Young Jerry",
+    "estado": "unknown",
+    "especie": "Human",
+    "genero": "Male",
+    "origen": "Earth (Unknown dimension)",
+    "ubicacion": "Earth (Unknown dimension)",
+    "img": ""
+  }
+]
